@@ -6,3 +6,4 @@ This repository is for regular tracking of my updates on any particular language
 1. Python Pong Game -- game1 - Two player pong game
 2. Python Snake Game -- Snake_game - Single player, nostalgic game
 3. Python code to print acronym
+4. Python code to make QR Code
