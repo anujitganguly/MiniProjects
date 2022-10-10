@@ -7,3 +7,4 @@ This repository is for regular tracking of my updates on any particular language
 2. Python Snake Game -- Snake_game - Single player, nostalgic game
 3. Python code to print acronym
 4. Python code to make QR Code
+5. Python code for BMI Calculator
