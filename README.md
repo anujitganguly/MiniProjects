@@ -8,3 +8,4 @@ This repository is for regular tracking of my updates on any particular language
 3. Python code to print acronym
 4. Python code to make QR Code
 5. Python code for BMI Calculator
+6. Python code for calculating shopping goods -- ListCalc 
