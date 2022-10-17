@@ -9,3 +9,4 @@ This repository is for regular tracking of my updates on any particular language
 4. Python code to make QR Code
 5. Python code for BMI Calculator
 6. Python code for calculating shopping goods -- ListCalc 
+7. Python code for user Input Array
