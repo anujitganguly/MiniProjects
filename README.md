@@ -11,3 +11,4 @@ This repository is for regular tracking of my updates on any particular language
 6. Python code for calculating shopping goods -- ListCalc 
 7. Python code for user Input Array
 8. Python code to randomly give 2 outputs from two dices of range 1-6
+9. Python code for Fibonacci series
