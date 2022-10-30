@@ -13,3 +13,4 @@ This repository is for regular tracking of my updates on any particular language
 8. Python code to randomly give 2 outputs from two dices of range 1-6
 9. Python code for Fibonacci series
 10. Python code to generate random passwords of user input size
+11. Python code to generate array from input image
