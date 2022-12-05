@@ -23,3 +23,4 @@ This repository is for regular tracking of my updates on any particular language
 18. Pyhton code to create and show output in a txt file -- txtOP.py
 19. Pythin code to convert currency -- currencyConv.py
 20. Python code to make the first word capital -- firstWordCapt.py
+21. Python code to slice an email address -- emailSlicer.py
