@@ -24,3 +24,4 @@ This repository is for regular tracking of my updates on any particular language
 19. Pythin code to convert currency -- currencyConv.py
 20. Python code to make the first word capital -- firstWordCapt.py
 21. Python code to slice an email address -- emailSlicer.py
+22. Python code to calculate lumpsum CAGR -- lumpsum_cagr.py
