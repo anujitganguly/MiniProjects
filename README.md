@@ -25,3 +25,4 @@ This repository is for regular tracking of my updates on any particular language
 20. Python code to make the first word capital -- firstWordCapt.py
 21. Python code to slice an email address -- emailSlicer.py
 22. Python code to calculate lumpsum CAGR -- lumpsum_cagr.py
+23. Python code to suggest correct spelling -- spellingCorrection.py
